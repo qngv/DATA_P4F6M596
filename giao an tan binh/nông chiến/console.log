@@ -1,0 +1,76 @@
+Message: Uncaught TypeError: Cannot set property 'href' of null
+Source: http://cuhanhplay.csm.zing.vn/?t=2&code=STORE
+Line: 60
+-----------------------
+Message: Uncaught TypeError: Cannot set property 'href' of null
+Source: http://cuhanhplay.csm.zing.vn/?t=2&code=STORE
+Line: 60
+-----------------------
+Message: Uncaught TypeError: Cannot set property 'href' of null
+Source: http://cuhanhplay.csm.zing.vn/?t=2&code=STORE
+Line: 60
+-----------------------
+Message: Uncaught TypeError: Cannot set property 'href' of null
+Source: http://cuhanhplay.csm.zing.vn/?t=2&code=STORE
+Line: 60
+-----------------------
+Message: listcode
+Source: http://csm.vcdn.vn/cuhanhplay/skin/khocodev2/js/main.ko.js
+Line: 857
+-----------------------
+Message: mycode;
+Source: http://csm.vcdn.vn/cuhanhplay/skin/khocodev2/js/main.ko.js
+Line: 857
+-----------------------
+Message: initVipDropdown
+Source: http://csm.vcdn.vn/cuhanhplay/skin/khocodev2/js/main.ko.js
+Line: 391
+-----------------------
+Message: initPlatformDropdown
+Source: http://csm.vcdn.vn/cuhanhplay/skin/khocodev2/js/main.ko.js
+Line: 397
+-----------------------
+Message: Uncaught TypeError: Cannot set property 'href' of null
+Source: http://cuhanhplay.csm.zing.vn/?t=2&code=STORE
+Line: 60
+-----------------------
+Message: event.returnValue is deprecated. Please use the standard event.preventDefault() instead.
+Source: 
+Line: 0
+-----------------------
+Message: Uncaught TypeError: Cannot set property 'href' of null
+Source: http://cuhanhplay.csm.zing.vn/?t=2&code=STORE
+Line: 60
+-----------------------
+Message: Uncaught SyntaxError: Unexpected token ILLEGAL
+Source: https://ttk.360game.vn/
+Line: 11
+-----------------------
+Message: Zalo Social Plugin is loaded successfully
+Source: https://sp.zalo.me/plugins/sdk.js?_=1524625497758
+Line: 30
+-----------------------
+Message: Zalo Social Plugin is loaded successfully
+Source: https://sp.zalo.me/plugins/sdk.js
+Line: 30
+-----------------------
+Message: Uncaught SyntaxError: Unexpected identifier
+Source: http://360game.vn/web-game/?_src=360-list-header
+Line: 722
+-----------------------
+Message: Uncaught ReferenceError: $ is not defined
+Source: https://360game.vn/stressflow/iframe?uid=
+Line: 12
+-----------------------
+Message: reloadSocial
+Source: https://sp.zalo.me/plugins/sdk.js
+Line: 30
+-----------------------
+Message: reloadSocial
+Source: https://sp.zalo.me/plugins/sdk.js
+Line: 30
+-----------------------
+Message: reloadSocial
+Source: https://sp.zalo.me/plugins/sdk.js?_=1524625497758
+Line: 30
+-----------------------
